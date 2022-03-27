@@ -1,0 +1,86 @@
+body{
+    color: #fff0f3;
+    font-family: 'Quicksand', sans-serif;
+}
+#mainnav {
+    background: #590d22;
+    font-size: 1.5rem;
+}
+
+#mainnav .navbar-brand {
+    color: #fff0f3;
+    font-size: 1.5rem;
+}
+
+#mainnav #navhome {
+    color: #ffccd5;
+}
+
+#mainnav .nav-item :hover {
+    color: #ffccd5;
+}
+
+.col-md-6 h2 {
+    border-bottom: solid #ffccd5;
+    padding-bottom: 0.5rem;
+}
+
+form {
+    padding: 1.5rem;
+}
+
+.container-fluid {
+    padding: 1.5rem;
+}
+
+#first {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    background-image: url("img/tokyo.jpg");
+    background-size: 100% 40rem;
+}
+
+#second {
+    background-color: #800f2f;
+}
+#second #p{
+    padding: 2rem 6rem 1.5rem;
+}
+#second img{
+    max-width: 16rem;
+    margin: 1.5rem;
+}
+
+#third {
+    background-color: #a4133c;
+}
+#third img{
+    padding: 2rem;
+}
+
+#fourth {
+    background-color: #c9184a;
+}
+#fourth p{
+    padding: 6rem;
+}
+
+#fifth {
+    background-color: #ff4d6d;
+}
+.carousel-item img{
+    height: 40rem;
+}
+
+#sixth{
+    background-image: url("img/manekinekobig.jpg");
+    background-size: 100% 20rem;
+    padding: 1.5rem;
+}
+
+a{
+    color: #fff0f3;
+}
+a:hover {
+    color: #ffccd5;
+}
